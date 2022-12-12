@@ -9,5 +9,7 @@
     "azure-work-management.organization": "dev.azure.com/blackbaud",
     "azure-work-management.project": "Products",
     "azure-work-management.team": "Cyber Security Data Engineering (CSDE)",
-    "azdoPullRequests.projectName": "Products"
+    "azdoPullRequests.projectName": "Products",
+    "azdo-wiki-md.organization": "https://dev.azure.com/blackbaud/",
+    "azdo-wiki-md.token": "ondefpjbsgtdslkb62k7zc2mhsuxqtww5gjb6qvb6oqjrhpir5hq"
 }
