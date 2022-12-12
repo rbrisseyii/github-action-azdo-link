@@ -3,5 +3,10 @@
     "vscode-pull-requests-azure-devops.collection": "https://dev.azure.com/blackbaud/",
     "vscode-pull-requests-azure-devops.access-token": "57rvtxzfush7o4tnv3mh2ni7ueanqd5w3v533zl644r2vhj4hv6q",
     "vscode-pull-requests-azure-devops.project": "Products",
-    "vscode-pull-requests-azure-devops.repo": "Cyber Security Data Engineering"
+    "vscode-pull-requests-azure-devops.repo": "Cyber Security Data Engineering",
+    "azure-work-management.iteration": "Products\\",
+    "azure-work-management.personal-access-token": "ondefpjbsgtdslkb62k7zc2mhsuxqtww5gjb6qvb6oqjrhpir5hq",
+    "azure-work-management.organization": "dev.azure.com/blackbaud",
+    "azure-work-management.project": "Products",
+    "azure-work-management.team": "Cyber Security Data Engineering (CSDE)"
 }

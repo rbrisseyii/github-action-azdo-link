@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "michaelisom.vscode-pull-requests-azure-devops"
+        "michaelisom.vscode-pull-requests-azure-devops",
+        "melodicdevelopment.azure-work-management"
     ]
 }
